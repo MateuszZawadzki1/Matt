@@ -7,9 +7,9 @@
 
 - 🌱 I’m currently learning **Flutter, Java, Python**
 
-- 👨‍💻 All of my projects are available at [will be on https://zawadzkimateusz.pl/portfolio/](will be on https://zawadzkimateusz.pl/portfolio/)
+- 👨‍💻 All of my projects are available at (will be on https://zawadzkimateusz.pl/portfolio/
 
-- 📝 I regularly write articles on [IG profile inc](IG profile inc)
+- 📝 I regularly write articles on IG profile inc
 
 - 📫 How to reach me **kontakt@zawadzkimateusz.pl**
 
